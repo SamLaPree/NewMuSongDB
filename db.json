@@ -1,5 +1,4 @@
-{
-  "Song": [
+[
     {
       "id": 1,
       "name": "Blinding Lights",
@@ -140,5 +139,4 @@
       "genre": "Pop",
       "lengthSecTotal": 201
     }
-  ]
-}
+]
