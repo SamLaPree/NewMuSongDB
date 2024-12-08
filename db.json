@@ -1,0 +1,144 @@
+{
+  "Song": [
+    {
+      "id": 1,
+      "name": "Blinding Lights",
+      "artist": "The Weeknd",
+      "genre": "Pop",
+      "lengthSecTotal": 200
+    },
+    {
+      "id": 2,
+      "name": "Bad Romance",
+      "artist": "Lady Gaga",
+      "genre": "Pop",
+      "lengthSecTotal": 295
+    },
+    {
+      "id": 3,
+      "name": "Shape of You",
+      "artist": "Ed Sheeran",
+      "genre": "Pop",
+      "lengthSecTotal": 233
+    },
+    {
+      "id": 4,
+      "name": "Uptown Funk",
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "genre": "Pop",
+      "lengthSecTotal": 269
+    },
+    {
+      "id": 5,
+      "name": "Happy",
+      "artist": "Pharrell Williams",
+      "genre": "Pop",
+      "lengthSecTotal": 232
+    },
+    {
+      "id": 6,
+      "name": "Firework",
+      "artist": "Katy Perry",
+      "genre": "Pop",
+      "lengthSecTotal": 230
+    },
+    {
+      "id": 7,
+      "name": "Teenage Dream",
+      "artist": "Katy Perry",
+      "genre": "Pop",
+      "lengthSecTotal": 228
+    },
+    {
+      "id": 8,
+      "name": "Rolling in the Deep",
+      "artist": "Adele",
+      "genre": "Pop",
+      "lengthSecTotal": 228
+    },
+    {
+      "id": 9,
+      "name": "Sorry",
+      "artist": "Justin Bieber",
+      "genre": "Pop",
+      "lengthSecTotal": 201
+    },
+    {
+      "id": 10,
+      "name": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "genre": "Pop",
+      "lengthSecTotal": 193
+    },
+    {
+      "id": 11,
+      "name": "Shake It Off",
+      "artist": "Taylor Swift",
+      "genre": "Pop",
+      "lengthSecTotal": 219
+    },
+    {
+      "id": 12,
+      "name": "Royals",
+      "artist": "Lorde",
+      "genre": "Pop",
+      "lengthSecTotal": 211
+    },
+    {
+      "id": 13,
+      "name": "Billie Jean",
+      "artist": "Michael Jackson",
+      "genre": "Pop",
+      "lengthSecTotal": 293
+    },
+    {
+      "id": 14,
+      "name": "Toxic",
+      "artist": "Britney Spears",
+      "genre": "Pop",
+      "lengthSecTotal": 198
+    },
+    {
+      "id": 15,
+      "name": "Poker Face",
+      "artist": "Lady Gaga",
+      "genre": "Pop",
+      "lengthSecTotal": 238
+    },
+    {
+      "id": 16,
+      "name": "Can't Stop the Feeling!",
+      "artist": "Justin Timberlake",
+      "genre": "Pop",
+      "lengthSecTotal": 236
+    },
+    {
+      "id": 17,
+      "name": "Wrecking Ball",
+      "artist": "Miley Cyrus",
+      "genre": "Pop",
+      "lengthSecTotal": 221
+    },
+    {
+      "id": 18,
+      "name": "Bad Guy",
+      "artist": "Billie Eilish",
+      "genre": "Pop",
+      "lengthSecTotal": 194
+    },
+    {
+      "id": 19,
+      "name": "24K Magic",
+      "artist": "Bruno Mars",
+      "genre": "Pop",
+      "lengthSecTotal": 214
+    },
+    {
+      "id": 20,
+      "name": "Dynamite",
+      "artist": "Taio Cruz",
+      "genre": "Pop",
+      "lengthSecTotal": 201
+    }
+  ]
+}
