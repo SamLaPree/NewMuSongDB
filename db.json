@@ -52,234 +52,52 @@
     },
     {
       "id": 8,
-      "name": "Rolling in the Deep",
-      "artist": "Adele",
-      "genre": "Pop",
-      "lengthSecTotal": 228
-    },
-    {
-      "id": 9,
-      "name": "Sorry",
-      "artist": "Justin Bieber",
-      "genre": "Pop",
-      "lengthSecTotal": 201
-    },
-    {
-      "id": 10,
-      "name": "Call Me Maybe",
-      "artist": "Carly Rae Jepsen",
-      "genre": "Pop",
-      "lengthSecTotal": 193
-    },
-    {
-      "id": 11,
-      "name": "Shake It Off",
-      "artist": "Taylor Swift",
-      "genre": "Pop",
-      "lengthSecTotal": 219
-    },
-    {
-      "id": 12,
-      "name": "Royals",
-      "artist": "Lorde",
-      "genre": "Pop",
-      "lengthSecTotal": 211
-    },
-    {
-      "id": 13,
-      "name": "Billie Jean",
-      "artist": "Michael Jackson",
-      "genre": "Pop",
-      "lengthSecTotal": 293
-    },
-    {
-      "id": 14,
-      "name": "Toxic",
-      "artist": "Britney Spears",
-      "genre": "Pop",
-      "lengthSecTotal": 198
-    },
-    {
-      "id": 15,
-      "name": "Poker Face",
-      "artist": "Lady Gaga",
-      "genre": "Pop",
-      "lengthSecTotal": 238
-    },
-    {
-      "id": 16,
-      "name": "Can't Stop the Feeling!",
-      "artist": "Justin Timberlake",
-      "genre": "Pop",
-      "lengthSecTotal": 236
-    },
-    {
-      "id": 17,
-      "name": "Wrecking Ball",
-      "artist": "Miley Cyrus",
-      "genre": "Pop",
-      "lengthSecTotal": 221
-    },
-    {
-      "id": 18,
-      "name": "Bad Guy",
-      "artist": "Billie Eilish",
-      "genre": "Pop",
-      "lengthSecTotal": 194
-    },
-    {
-      "id": 19,
-      "name": "24K Magic",
-      "artist": "Bruno Mars",
-      "genre": "Pop",
-      "lengthSecTotal": 214
-    },
-    {
-      "id": 20,
-      "name": "Dynamite",
-      "artist": "Taio Cruz",
-      "genre": "Pop",
-      "lengthSecTotal": 201
-    },
-    {
-      "id": 21,
       "name": "Hotel California",
       "artist": "Eagles",
       "genre": "Rock",
       "lengthSecTotal": 391
     },
     {
-      "id": 22,
+      "id": 9,
       "name": "Thunderstruck",
       "artist": "AC/DC",
       "genre": "Rock",
       "lengthSecTotal": 292
     },
     {
-      "id": 23,
+      "id": 10,
       "name": "Stairway to Heaven",
       "artist": "Led Zeppelin",
       "genre": "Rock",
       "lengthSecTotal": 482
     },
     {
-      "id": 24,
+      "id": 11,
       "name": "Seven Nation Army",
       "artist": "The White Stripes",
       "genre": "Rock",
       "lengthSecTotal": 232
     },
     {
-      "id": 25,
+      "id": 12,
       "name": "Come As You Are",
       "artist": "Nirvana",
       "genre": "Rock",
       "lengthSecTotal": 228
     },
     {
-      "id": 26,
+      "id": 13,
       "name": "Californication",
       "artist": "Red Hot Chilli Peppers",
       "genre": "Rock",
       "lengthSecTotal": 329
     },
     {
-      "id": 27,
+      "id": 14,
       "name": "Sweet Child O'Mine",
       "artist": "Guns N'Roses",
       "genre": "Rock",
       "lengthSecTotal": 356
-    },
-    {
-      "id": 28,
-      "name": "Paint It, Black",
-      "artist": "The Rolling Stones",
-      "genre": "Rock",
-      "lengthSecTotal": 202
-    },
-    {
-      "id": 29,
-      "name": "Dream On",
-      "artist": "Aerosmith",
-      "genre": "Rock",
-      "lengthSecTotal": 266
-    },
-    {
-      "id": 30,
-      "name": "Everlong",
-      "artist": "Foo Fighters",
-      "genre": "Rock",
-      "lengthSecTotal": 250
-    },
-    {
-      "id": 31,
-      "name": "Wonderwall",
-      "artist": "Oasis",
-      "genre": "Rock",
-      "lengthSecTotal": 258
-    },
-    {
-      "id": 32,
-      "name": "Smoke on the Water",
-      "artist": "Deep Purple",
-      "genre": "Rock",
-      "lengthSecTotal": 342
-    },
-    {
-      "id": 33,
-      "name": "Fortunate Son",
-      "artist": "Creedence Clearwater Revival",
-      "genre": "Rock",
-      "lengthSecTotal": 128
-    },
-    {
-      "id": 34,
-      "name": "Enter Sandman",
-      "artist": "Metallica",
-      "genre": "Rock",
-      "lengthSecTotal": 331
-    },
-    {
-      "id": 35,
-      "name": "Hourse of the Rising Sun",
-      "artist": "The Animals",
-      "genre": "Rock",
-      "lengthSecTotal": 269
-    },
-    {
-      "id": 36,
-      "name": "Zombie",
-      "artist": "The Cranberries",
-      "genre": "Rock",
-      "lengthSecTotal": 306
-    },
-    {
-      "id": 37,
-      "name": "Sultans of Swing",
-      "artist": "Dire Straites",
-      "genre": "Rock",
-      "lengthSecTotal": 348
-    },
-    {
-      "id": 38,
-      "name": "Bohemian Rhapsody",
-      "artist": "Queen",
-      "genre": "Rock",
-      "lengthSecTotal": 354
-    },
-    {
-      "id": 39,
-      "name": "Don't Stop Believin'",
-      "artist": "Journey",
-      "genre": "Rock",
-      "lengthSecTotal": 250
-    },
-    {
-      "id": 40,
-      "name": "Another Brick in the Wall, Pt. 2",
-      "artist": "Pink Floyd",
-      "genre": "Rock",
-      "lengthSecTotal": 238
     }
 ]
 }
