@@ -98,6 +98,104 @@
       "artist": "Guns N'Roses",
       "genre": "Rock",
       "lengthSecTotal": 356
+    },
+    {
+      "id": 15,
+      "name": "Unforgettable",
+      "artist": "Nat King Cole",
+      "genre": "Jazz",
+      "lengthSecTotal": 191
+    },
+    {
+      "id": 16,
+      "name": "Stormy Weather",
+      "artist": "Etta James",
+      "genre": "Jazz",
+      "lengthSecTotal": 183
+    },
+    {
+      "id": 17,
+      "name": "I'll Be Seeing You",
+      "artist": "Billie Holiday",
+      "genre": "Jazz",
+      "lengthSecTotal": 211
+    },
+    {
+      "id": 18,
+      "name": "Coffee Cold",
+      "artist": "Galt MacDermont",
+      "genre": "Jazz",
+      "lengthSecTotal": 205
+    },
+    {
+      "id": 19,
+      "name": "My Funny Valentine",
+      "artist": "Chet Baker",
+      "genre": "Jazz",
+      "lengthSecTotal": 141
+    },
+    {
+      "id": 20,
+      "name": "Fly Me To The Moon",
+      "artist": "Astrud Gilberto",
+      "genre": "Jazz",
+      "lengthSecTotal": 142
+    },
+    {
+      "id": 21,
+      "name": "Blue Moon",
+      "artist": "Billie Holiday",
+      "genre": "Jazz",
+      "lengthSecTotal": 207
+    },
+    {
+      "id": 22,
+      "name": "9 to 5",
+      "artist": "Dolly Parton",
+      "genre": "Country",
+      "lengthSecTotal": 162
+    },
+    {
+      "id": 23,
+      "name": "Hurricane",
+      "artist": "Luke Combs",
+      "genre": "Country",
+      "lengthSecTotal": 222
+    },
+    {
+      "id": 24,
+      "name": "American Kids",
+      "artist": "Kenny Chesney",
+      "genre": "Country",
+      "lengthSecTotal": 182
+    },
+    {
+      "id": 25,
+      "name": "The Gambler",
+      "artist": "Kenny Rogers",
+      "genre": "Country",
+      "lengthSecTotal": 214
+    },
+    {
+      "id": 26,
+      "name": "Die A Happy Man",
+      "artist": "Thomas Rhett",
+      "genre": "Country",
+      "lengthSecTotal": 227
+    },
+    {
+      "id": 27,
+      "name": "As Good As I Once Was",
+      "artist": "Toby Keith",
+      "genre": "Country",
+      "lengthSecTotal": 227
+    },
+    {
+      "id": 28,
+      "name": "Why Not Me",
+      "artist": "The Judds",
+      "genre": "Country",
+      "lengthSecTotal": 209
     }
 ]
 }
